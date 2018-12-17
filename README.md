@@ -1,0 +1,2 @@
+# oapidocs
+test for openapi
